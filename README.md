@@ -33,6 +33,9 @@ Python language is super easy to understand because of its syntax format and is 
 - REST APIs, Web Scraping, and Working with Files
 - Final Exam
 
+## What makes Python Great? 
+<img width="1224" height="569" alt="Screenshot 2026-06-06 at 2 06 55 PM" src="https://github.com/user-attachments/assets/8d5eebb1-39da-44d4-9dee-acf8b0ec74cd" />
+
 
 
 
