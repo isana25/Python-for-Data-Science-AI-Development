@@ -15,17 +15,23 @@ Python language is super easy to understand because of its syntax format and is 
 - Sets
 
 ## Module 3: Python Programming Fundamentals 
-- Conditions
-- Branching
+- Conditions and Branching
 - Loops
 - Functions
-- Objects
-- Classes
+- Exception Handling
+- Objects and Classes
+- Practice with Python Programming Fundamentals
 
-## Module 4: How to work with Data
+## Module 4: Working with Data in Python
+- Reading and Writing Files with Open
 - Loading data with Python's built-in functions
 - Using Libraries like Numpy and Pandas
-- Application Programming Interfaces (APIs)
+- Numpy in Python
+
+## Module 5: APIs and Data Collection
+- Simple APIs
+- REST APIs, Web Scraping, and Working with Files
+- Final Exam
 
 
 
