@@ -1,6 +1,6 @@
 # Python-for-Data-Science-AI-Development
-### IBM Professional Python course for beginners. [Course Link](https://www.coursera.org/learn/python-for-applied-data-science-ai/)
-Python language is super easy to understand because of its syntax format and is widely used in AI, ML, NLP, web-scraping, and data science work.
+### IBM Professional Python course for beginners. [Course Link](https://www.coursera.org/learn/python-for-applied-data-science-ai/)The 
+The Python language is super easy to understand because of its syntax, and it is widely used in AI, ML, NLP, web scraping, and data science.
 
 ## Module 1: Python Basics 
 - Types
